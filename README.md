@@ -15,6 +15,13 @@ shirnk down circuit to smaller compact circuit and replace larger components wit
 
 12V 200W Solar panel stays the same
 
+when the parts become compact parts that are small enough to fit inside of the back of the laptop plastic shell
+
+the properitary plug like the 3 pin AC "prop" plug WILL JUST BECOME STRAIGHT SMALL GAUGE WIRES THAT ARE FACTORY SOLDERED 
+
+(AS THIS NEW CIRCUIT DROPPING THE COST OF EXTRA PLUGS AND AC SOCKETS ETC WIRES)
+
+then the 12" solar panel with 12V 200W............. gets wired to the 12V compact circuit inverter to where the car cigarette plug 12V input would be and the 12V compact circuit inverter AC out gets wired internally to the recharging port as a small gauge wire)
 
 laptop model chosen the laptop display plastic covering .... gets extruded to be slighter thicker for the laptop display on the backside 
 which will hold the 12V 200W (12inch * 12inch solar panel in the center of the back of the laptop display)

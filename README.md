@@ -1,3 +1,6 @@
+Calling all CAD and electronics hobbyists
+
+
 SHRINK DOWN 12V CAR INVERTER 150W model to smaller laptop component (1.5 inch * 3 inch)
 
 SHRINK DOWN WALL CHARGER TO LAPTOP (1.5 inch * 3 inch)
@@ -18,5 +21,6 @@ the laptop display casing gets extruded from current 1/4 inch to 1/2 inch or 1.2
 housing
 
 
+think $100 more per laptop display gets into laptop manufacturing lines here in north america or overseas
 
 

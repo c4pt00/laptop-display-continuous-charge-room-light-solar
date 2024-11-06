@@ -6,7 +6,7 @@ EXAMPLE OF A 12V CAR INVERTER TO AC 120 OUTLET
 ![s1](https://raw.githubusercontent.com/c4pt00/laptop-display-continuous-charge-room-light-solar/refs/heads/main/strip-stock-1.png)
 
 SHRINK DOWN WALL CHARGER TO LAPTOP size to shrink to (1.5 inch width * 3 inch length * 0.5 inch thickness)
-
+![s1](https://raw.githubusercontent.com/c4pt00/laptop-display-continuous-charge-room-light-solar/refs/heads/main/strip-stock-2.png)
 by resizing each individual part to a smaller part using CAD .stl files piece by piece which is less than 3-6 pieces (exterior case and circuit board inside)
 
 shirnk down circuit to smaller compact circuit and replace larger components with Surface Mount Components

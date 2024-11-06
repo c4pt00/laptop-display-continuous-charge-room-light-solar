@@ -1,3 +1,7 @@
+FINAL OUTPUT DESIGN HOPEFULLY
+
+![s1](https://raw.githubusercontent.com/c4pt00/laptop-display-continuous-charge-room-light-solar/refs/heads/main/IMG_20241106_150452710_AE%7E2.jpg)
+
 Calling all CAD and electronics hobbyists
 
 

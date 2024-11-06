@@ -1,9 +1,9 @@
 Calling all CAD and electronics hobbyists
 
 
-SHRINK DOWN 12V CAR INVERTER 150W model to smaller laptop component (1.5 inch * 3 inch)
+SHRINK DOWN 12V CAR INVERTER 150W model to smaller laptop component size to shirnk to (1.5 inch width * 3 inch length * 0.5 inch thickness)
 
-SHRINK DOWN WALL CHARGER TO LAPTOP (1.5 inch * 3 inch)
+SHRINK DOWN WALL CHARGER TO LAPTOP size to shrink to (1.5 inch width * 3 inch length * 0.5 inch thickness)
 
 by resizing each individual part to a smaller part using CAD .stl files piece by piece which is less than 3-6 pieces (exterior case and circuit board inside)
 

@@ -2,6 +2,8 @@ Calling all CAD and electronics hobbyists
 
 
 SHRINK DOWN 12V CAR INVERTER 150W model to smaller laptop component size to shirnk to (1.5 inch width * 3 inch length * 0.5 inch thickness)
+EXAMPLE OF A 12V CAR INVERTER TO AC 120 OUTLET
+![s1](https://raw.githubusercontent.com/c4pt00/laptop-display-continuous-charge-room-light-solar/refs/heads/main/strip-stock-1.png)
 
 SHRINK DOWN WALL CHARGER TO LAPTOP size to shrink to (1.5 inch width * 3 inch length * 0.5 inch thickness)
 

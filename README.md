@@ -1,3 +1,7 @@
+Solar Panel, 60W 12V Photovoltaic Solar Panels, Solar-Battery-Trickle-Charger-Maintainer, Solar Panel Trickle Charging Kit For Motorcycle, Boat, RV, Trailer https://a.co/d/eL6MF8f
+
+13in x 4in FITS
+
 FINAL OUTPUT DESIGN HOPEFULLY
 
 ![s1](https://raw.githubusercontent.com/c4pt00/laptop-display-continuous-charge-room-light-solar/refs/heads/main/IMG_20241106_150452710_AE%7E2.jpg)
